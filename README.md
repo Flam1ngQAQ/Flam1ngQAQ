@@ -1,4 +1,4 @@
-## Hi there 👋
+## 这是一个基于马克思主义原著以及我个人思考的理论仓库，将会持续更新 👋
 
 <!--
 **Flam1ngQAQ/Flam1ngQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
